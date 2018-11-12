@@ -1,4 +1,4 @@
-<img src="images/me.jpg" style="zoom:10%" />
+<img src="files/me.jpg" style="zoom:10%" />
 
 ## About me
 
@@ -20,7 +20,10 @@ I'm **Jen-tse Huang (黃任澤)**, a final-year undergraduate student at Peking 
 
 
 
+
 ## Contact me
 
-hrz@pku.edu.cn
+Mail: hrz@pku.edu.cn
+
+Github: https://github.com/penguinnnnn
 
