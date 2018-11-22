@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm **Jen-tse Huang (黃任澤)**, a final-year undergraduate student at Peking University, majoring in computer science at Yuanpei College. Also, I'm a research intern at SenseTime Research Beijing. I'm interested in machine learning and computer vision, specifically in generative  algorithms, representations learning and network interpretation. **I am going to apply for Ph.D in Hong Kong this FALL.**
+I'm **Jen-tse Huang (黃任澤)**, a final-year undergraduate student at Peking University, majoring in computer science at Yuanpei College. Also, I'm a research intern at SenseTime Research Beijing. I'm interested in machine learning and computer vision, specifically in generative  algorithms, representations learning. **I am going to apply for Ph.D in Hong Kong this FALL.**
 
 
 
