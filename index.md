@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm **Jen-tse Huang (黃任澤)**, a final-year undergraduate student at Peking University, majoring in computer science at Yuanpei College. Also, I'm a research intern at SenseTime Research Beijing. I'm interested in machine learning and computer vision, specifically in generative algorithms, representations learning. **I am going to pursue my Ph.D study in Hong Kong.**
+I am **Jen-tse Huang (黃任澤)**, a PhD student at The Chinese University of Hong Kong, majoring in Computer Science. My research interests lie in Deep Learning Model Interpretability and Robustness, Domain Adaptation and Learning Representations. (This homepage is updated on March 12, 2020)
 
 
 
@@ -12,27 +12,25 @@ I'm **Jen-tse Huang (黃任澤)**, a final-year undergraduate student at Peking 
 
   Major in Computer Science at [Yuanpei College](https://yuanpei.pku.edu.cn/)
 
+- *2018.02 - 2019.06*, **Research Intern**, [SenseTime Research Beijing](https://www.sensetime.com/)
 
+  Mentors: Chen Qian [(Google Scholar)](https://scholar.google.com.hk/citations?user=AerkT0YAAAAJ)
 
-- *2018.02 - Current*, **Research Intern**, [SenseTime Research Beijing](https://www.sensetime.com/)
+  ​               Bolei Zhou [(Personal Homepage)](http://bzhou.ie.cuhk.edu.hk/), [(Google Scholar)](https://scholar.google.com/citations?user=9D4aG8AAAAAJ)
 
-  Mentor: Chen Qian [(Google Scholar)](https://scholar.google.com.hk/citations?user=AerkT0YAAAAJ)
-
-- *2018.11 - Current*, **Research Intern**, [Joint Lab of SenseTime and MMLab CUHK](http://mmlab.ie.cuhk.edu.hk/)
-
-  Mentor: Bolei Zhou [(Personal Homepage)](http://bzhou.ie.cuhk.edu.hk/), [(Google Scholar)](https://scholar.google.com.hk/citations?user=9D4aG8AAAAAJ)
-
-- *2018.11 - Current*, **Research Intern**, [STRUCT, Peking University](http://www.icst.pku.edu.cn/struct/)
+- *2018.11 - 2019.07*, **Research Intern**, [STRUCT, Peking University](http://www.icst.pku.edu.cn/struct/)
 
   Mentor: Jiaying Liu [(Personal Homepage)](http://www.icst.pku.edu.cn/struct/people/liujiaying.html), [(Google Scholar)](https://scholar.google.com/citations?user=-OcSne0AAAAJ)
+  
+- *2019.09 - Current*, **Research Assistant**, [CSE, The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/en/)
+
+  Mentor: Michael R. Lyu [(Personal Homepage)](https://www.cse.cuhk.edu.hk/lyu/home), [(Google Scholar)](https://scholar.google.com/citations?user=uQnBgK0AAAAJ)
 
 
 
 
 ## Contact me
 
-Mail: hrz@pku.edu.cn
+Mail: jentsehuang@cuhk.edu.hk
 
 Github: https://github.com/penguinnnnn
-
-Skype Name: live:hrzpenguin
