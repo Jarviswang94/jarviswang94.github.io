@@ -15,22 +15,7 @@
 
     <script src="scripts/functions.js"></script>
     
-    <style>
-
-        .clustrmaps-container {
-          width: 200px;
-          height: 200px;
-          position: relative;
-        }
-
-        .clustrmaps-container iframe {
-          width: 100%;
-          height: 100%;
-        }
-
-        html {
-            scroll-behavior: smooth;
-        }
+   <style>
 
         .navbar {
             display: flex;
@@ -61,16 +46,33 @@
             font-weight: bold;
         }
 
-        .navbar a:hover {
-            background-color: #6891D5;
-            color: white;
+        .team-container {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
         }
 
-        .active {
-            background-color: #6891D5;
-            color: white;
+        .member {
+            text-align: center;
         }
-    </style>
+
+        .member img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto 10px;
+        }
+
+        .member p {
+            margin: 5px 0;
+        }
+
+  </style>
 </head>
 
 <body data-gr-c-s-loaded="true">
@@ -97,30 +99,110 @@
 
 <!-- team -->
 
-<table width="100%" align="center" border="0" cellpadding="10">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
     <tbody>
         <tr>
             <td>
-                <sectionheading>&nbsp;&nbsp;Mentorship</sectionheading>
-                <ul>
-                    <li><a href="https://donaldlamnl.github.io/DonaldLamNL/home">Donald (Man Ho) Lam (林文昊)</a>, Multi-Agent Systems, CUHK Undergrad 2024</li>
-                    <li><a href="https://scholar.google.com.hk/citations?user=m71w120AAAAJ">Eric John Li (李銘勳)</a>, LLM Evaluation, CUHK Undergrad 2024</li>
-                    <li><a href="https://www.linkedin.com/in/derek-ng-138b41265/">Derek (Man Tik) Ng (吳文廸)</a>, Role-Playing, CUHK Undergrad 2024</li>
-                    <li><a href="https://www.argonaut790.dev">Billy (Hui Tung) Tse (謝栩棟)</a>, Role-Playing, CUHK Undergrad 2024</li>
-                    <li><a href="https://www.linkedin.com/in/linqi-liu/">Linqi Liu (劉林其)</a>, Social Biases, CUHK Undergrad 2025</li>
-                    <li><a href="https://yany-henry.me/">Yuhang Yan (閆禹杭)</a>, Social Biases, CUHK Undergrad 2025</li>
-                    <li><a href="https://harveyyellow.github.io">Jingyuan Huang (黃靖原)</a>, LLM Reasoning, CUHK Undergrad 2025</li>
-                    <li><b>Jiantong Qin (秦健桐)</b>, Social Biases, CUHK Undergrad 2026</li>
-                    <li><b>Yuwei Sun (孫鈺煒)</b>, Social Biases, CUHK Undergrad 2026</li>
-                    <li><a href="https://www.linkedin.com/in/jia-xu-zhou/">Jiaxu Zhou (周嘉許)</a>, Multi-Agent Systems, CUHK Undergrad 2027</li>
-                    <li><b>Tailin Jin (金泰林)</b>, Multi-Agent Systems, THU Undergrad 2027</li>
-                    <li><b>Zixi Chen (陳梓西)</b>, Multi-Agent Systems, PKU Undergrad 2027</li>
-                    <li><b>Dasen Dai (戴大森)</b>, VLM Reasoning, CUHK Undergrad 2027</li>
-                </ul>
+                <sectionheading>&nbsp;&nbsp;Mentorship </sectionheading>
             </td>
         </tr>
     </tbody>
 </table>
+
+<div class="team-container">
+
+    <div class="member">
+      <img src="images/people/jiaxuzhou.png" alt="headshot">
+      <p><a href="https://www.linkedin.com/in/jia-xu-zhou/">Jiaxu Zhou (周嘉許)</a></p>
+      <p>CUHK Undergrad'27</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/dasendai.png" alt="headshot">
+      <p><a href="https://openreview.net/profile?id=~Dasen_Dai1">Dasen Dai (戴大森)</a></p>
+      <p>CUHK Undergrad'27</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/tailinjin.png" alt="headshot">
+      <p><a href="https://scholar.google.com/citations?user=5xl7cKwAAAAJ">Tailin Jin (金泰林)</a></p>
+      <p>THU Undergrad'27</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/zixichen.png" alt="headshot">
+      <p><a href="https://openreview.net/profile?id=~Zixi_Chen5">Zixi Chen (陳梓西)</a></p>
+      <p>PKU Undergrad'27</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/jiantongqin.png" alt="headshot">
+      <p><a href="https://openreview.net/profile?id=~Jiantong_Qin1">Jiantong Qin (秦健桐)</a></p>
+      <p>CUHK Undergrad'26</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/yuweisun.png" alt="headshot">
+      <p>Yuwei Sun (孫鈺煒)</p>
+      <p>CUHK Undergrad'26</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/yuhangyan.png" alt="headshot">
+      <p><a href="https://yany-henry.me/">Yuhang Yan (閆禹杭)</a></p>
+      <p>CUHK Undergrad'25</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/jingyuanhuang.png" alt="headshot">
+      <p><a href="https://harveyyellow.github.io">Jingyuan Huang (黃靖原)</a></p>
+      <p>CUHK Undergrad'25</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/linqiliu.png" alt="headshot">
+      <p><a href="https://www.linkedin.com/in/linqi-liu/">Linqi Liu (劉林其)</a></p>
+      <p>CUHK Undergrad'25</p>
+      <p>Now: -</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/donaldlam.png" alt="headshot">
+      <p><a href="https://donaldlamnl.github.io/DonaldLamNL/home">Donald (Man Ho) Lam (林文昊)</a></p>
+      <p>CUHK Undergrad'24</p>
+      <p>Now: PhD @CUHK</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/derekng.png" alt="headshot">
+      <p><a href="https://www.linkedin.com/in/derek-ng-138b41265/">Derek (Man Tik) Ng (吳文廸)</a></p>
+      <p>CUHK Undergrad'24</p>
+      <p>Now: RA @CUHK</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/ericli.png" alt="headshot">
+      <p><a href="https://scholar.google.com.hk/citations?user=m71w120AAAAJ">Eric John Li (李銘勳)</a></p>
+      <p>CUHK Undergrad'24</p>
+      <p>Now: RA @CUHK</p>
+    </div>
+
+    <div class="member">
+      <img src="images/people/billytse.png" alt="headshot">
+      <p><a href="https://www.argonaut790.dev">Billy (Hui Tung) Tse (謝栩棟)</a></p>
+      <p>CUHK Undergrad'24</p>
+      <p>Now: MSc @CUHK</p>
+    </div>
+
+</div>
 
 </td></tr></table></body>
 </html>
